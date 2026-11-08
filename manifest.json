@@ -1,0 +1,15 @@
+{
+  "file": "Andy-4.2-Micro-Q4_K_M.gguf",
+  "size": 527502720,
+  "sha256": "fa3f5e885e8d41d68d49394b490fe8d59c3448b23cbae176b3cdcb92a8d3cbb3",
+  "parts": [
+    "part-000.bin",
+    "part-001.bin",
+    "part-002.bin",
+    "part-003.bin",
+    "part-004.bin",
+    "part-005.bin",
+    "part-006.bin",
+    "part-007.bin"
+  ]
+}
